@@ -1,1 +1,9 @@
-ola mundo 
+para iniciar no git tem que entrar na pasta que deseja. depois colocar iniciar com o git init.
+depois se preciso ir ate a pasta que deseja salvar ultilizando o cd e o caminho ate a pasta.
+depois usar o ls para ver o que tem na pasta.
+depois dar um git status para ver se esta salvo o arquivo.
+para salvar o arquivo git add e o nome do arquivo.
+se digitar o git status novamente o arquivo vai ficar em verde.
+para salvar definitivo tem que digitar o commit -m "nome do arquivo" .
+
+criar um desvio git checkout -b  nova_funcionalidade
