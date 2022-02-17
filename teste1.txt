@@ -7,3 +7,11 @@ se digitar o git status novamente o arquivo vai ficar em verde.
 para salvar definitivo tem que digitar o commit -m "nome do arquivo" .
 
 criar um desvio git checkout -b  nova_funcionalidade
+
+git remote add origin https://github.com/italoet2021/projeto1.git
+git branch -M main
+git push -u origin main
+
+para salavar os arquivos do bluej: como programa cria arquivos desnecessarios ára ignorar eles tem que criar um arquivo de texto chamado
+.gitignore e dentro dele colocar as extensoes que deseja ser ignorado ex (*.class) se o windowns nao aceitar tem que ir la no promp do guit colocar
+cp nome do arquivo criado e renomear para .gitignore ou digitar touch .gitignore que cria um arquivo tambem 
